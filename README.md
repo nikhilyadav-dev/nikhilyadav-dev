@@ -38,12 +38,24 @@ I am Nikhil Yadav, a full-stack developer passionate about building practical, s
 
 - Developed a full-stack property management system using **Bootstrap, Node.js, Express.js, and MongoDB**.
 - Built a fully responsive and accessible **UI with 100% mobile & desktop compatibility**.
-- Optimized backend APIs to support stable concurrent multi-user activity.
-- Designed a property listing structure capable of **managing 1,000+ entries efficiently for long-term scalability**. 
+- Implemented secure authentication using **Passport.js (Local, Google, Facebook OAuth)** with session-based access control.
+- Integrated **Cloudinary for image** uploads and **Mapbox for interactive geolocation** features.
+- Designed a scalable **MVC architecture with RESTful** routes, **validation (Joi)**, and password hashing.
 
 ---
 
-### 🧠 [GenUI Forge – AI Component Generator](https://github.com/nikhilyadav-dev/hireme-ai-suite.git)
+### 📝 [Hireme AI Suite – AI-Powered Resume Builder ](https://github.com/nikhilyadav-dev/hireme-ai-suite.git)
+ 
+***Tech Stack: React (Vite), Tailwind CSS, Clerk, Gemini API, Strapi, Node.js, MySQL***
+
+- Built a full-stack AI resume builder with dynamic multi-step forms and **real-time PDF preview**.
+- Integrated Gemini API to generate **AI-powered summaries, experience, and skills** using prompt engineering.
+- Implemented secure authentication with **Clerk (Google + Email/Password)1** and protected dashboard management.
+- Developed a **CMS-driven backend** using **Strapi + MySQL** with responsive UI and one-click PDF export.
+
+---
+
+### 🧠 [GenUI Forge – AI Component Generator](https://github.com/nikhilyadav-dev/AI-Driven-UI.git)
 
 ***Tech: React.js, Tailwind CSS, Gemini API***
 
@@ -51,6 +63,18 @@ I am Nikhil Yadav, a full-stack developer passionate about building practical, s
 - **Integrated Gemini API** to generate clean, production-ready UI components.
 - Implemented prompt engineering and validation rules, **improving code accuracy by 40%**.
 - Enabled automated UI generation, reducing manual work by 60% and improving developer productivity.
+
+---
+
+### 🔐[MERN Auth Pro – Complete Authentication System ](https://github.com/nikhilyadav-dev/multi-authentication-node.git)
+
+***Tech Stack: React, Node.js, Express.js, MongoDB, JWT, bcrypt, Twilio, NodeMailer***
+
+- Developed a full-stack authentication system using the MERN stack with **secure JWT-based login** and protected routes.
+- Implemented **Email & Phone OTP verification** using NodeMailer and Twilio for account activation and password recovery.
+- Applied **bcrypt password hashing**, token validation, and middleware-based access control for enhanced security.
+- Built complete authentication lifecycle including registration, login, forgot/reset password, and logout workflows.
+
 ---
 
 
