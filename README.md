@@ -5,75 +5,102 @@ I am Nikhil Yadav, a full-stack developer passionate about building practical, s
 **This page showcases the projects I’ve built — each reflecting my learning, experimentation, and commitment to writing better software.**
 
 ---
+### 🛠️ Tech Stack
 
-## 📚 My Education
+**Languages & Core**
 
-🎓 **B.Tech in Information Technology (2026)** </br>
-*(Government Engineering College, Bilaspur, Chhattisgarh, India)*
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<div >
-  <h2>🛠️ My Current Tech Stack</h2>
+**Backend & Databases**
 
-| Category                   | Tools & Technologies                                                                 |
-|--------------------------|---------------------------------------------------------------------------------------|
-| **Programming Languages**| JavaScript (ES6+), C++                                                                      |
-| **Frontend Development**     | HTML, CSS, AJAX, JavaScript, React.js, Bootstrap, Tailwind CSS                                |
-| **Backend Ecosystem** | Node.js, Express.js, RESTful APIs, JWT Authentication, MVC Pattern        |
-| **Databases & Storage**     | MongoDB, Mongoose                                                        |
-| **Tools**    | Git, GitHub, VS Code, Chrome DevTools                                                                       |
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
----
+**Cloud, DevOps & Tooling**
 
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+--- 
 
-## 📊 Projects
+## 🚀 Featured Builds
 
-### 🏘️ [Property Management Web Application](https://github.com/nikhilyadav-dev/livana-property-rentals.git)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-***Tech: Bootstrap, Node.js, Express.js, MongoDB***
+### 🏘️ [Livana](https://github.com/nikhilyadav-dev/livana-property-rentals)
+**Property rental & booking platform**
 
-- Developed a full-stack property management system using **Bootstrap, Node.js, Express.js, and MongoDB**.
-- Built a fully responsive and accessible **UI with 100% mobile & desktop compatibility**.
-- Implemented secure authentication using **Passport.js (Local, Google, Facebook OAuth)** with session-based access control.
-- Integrated **Cloudinary for image** uploads and **Mapbox for interactive geolocation** features.
-- Designed a scalable **MVC architecture with RESTful** routes, **validation (Joi)**, and password hashing.
+Full-stack MERN app with multi-provider OAuth, Cloudinary uploads, Mapbox geolocation, and a review/wishlist system. Built to solve a real problem — finding student housing.
 
----
+`Node.js` `Express` `MongoDB` `Passport.js`
 
-### 📝 [Hireme AI Suite – AI-Powered Resume Builder ](https://github.com/nikhilyadav-dev/hireme-ai-suite.git)
- 
-***Tech Stack: React (Vite), Tailwind CSS, Clerk, Gemini API, Strapi, Node.js, MySQL***
+📈 95 Accessibility · 91 SEO
+🔗 [Live Demo](https://livana-property-rentals.onrender.com)
 
-- Built a full-stack AI resume builder with dynamic multi-step forms and **real-time PDF preview**.
-- Integrated Gemini API to generate **AI-powered summaries, experience, and skills** using prompt engineering.
-- Implemented secure authentication with **Clerk (Google + Email/Password)1** and protected dashboard management.
-- Developed a **CMS-driven backend** using **Strapi + MySQL** with responsive UI and one-click PDF export.
+</td>
+<td width="50%" valign="top">
 
----
+### 📝 [Hireme AI Suite](https://github.com/nikhilyadav-dev/hireme-ai-suite)
+**AI-powered resume builder**
 
-### 🧠 [GenUI Forge – AI Component Generator](https://github.com/nikhilyadav-dev/AI-Driven-UI.git)
+Multi-step resume builder with real-time PDF preview and Gemini-generated summaries, experience & skills, backed by a Strapi + Postgres CMS.
 
-***Tech: React.js, Tailwind CSS, Gemini API***
+`React` `Gemini API` `Strapi` `Clerk`
 
-- Developed a React + Tailwind interface for fast and flexible UI building.
-- **Integrated Gemini API** to generate clean, production-ready UI components.
-- Implemented prompt engineering and validation rules, **improving code accuracy by 40%**.
-- Enabled automated UI generation, reducing manual work by 60% and improving developer productivity.
+📈 88 Performance · 98 Accessibility
+🔗 [Live Demo](https://hiremeai-ten.vercel.app/dashboard)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🔐[MERN Auth Pro – Complete Authentication System ](https://github.com/nikhilyadav-dev/multi-authentication-node.git)
+### 🧠 [GenUI Forge](https://github.com/nikhilyadav-dev/AI-Driven-UI)
+**AI component generator**
 
-***Tech Stack: React, Node.js, Express.js, MongoDB, JWT, bcrypt, Twilio, NodeMailer***
+Turns text prompts into production-ready HTML/CSS components with a live iframe preview and one-click export, powered by structured Gemini prompting.
 
-- Developed a full-stack authentication system using the MERN stack with **secure JWT-based login** and protected routes.
-- Implemented **Email & Phone OTP verification** using NodeMailer and Twilio for account activation and password recovery.
-- Applied **bcrypt password hashing**, token validation, and middleware-based access control for enhanced security.
-- Built complete authentication lifecycle including registration, login, forgot/reset password, and logout workflows.
+`React` `Tailwind` `Gemini API`
+
+📈 100 Performance · 100 Best Practices
+🔗 [Live Demo](https://gen-ui-gilt-psi.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [MERN Auth Pro](https://github.com/nikhilyadav-dev/multi-authentication-node)
+**Complete authentication system**
+
+End-to-end auth lifecycle — JWT, email & phone OTP verification, bcrypt hashing, and middleware-based access control.
+
+`React` `JWT` `Twilio` `NodeMailer`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -87,6 +114,9 @@ I am Nikhil Yadav, a full-stack developer passionate about building practical, s
   <a href="https://github.com/nikhilyadav-dev"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"/></a>
 
 </p>
+
+
+
 
 
 
