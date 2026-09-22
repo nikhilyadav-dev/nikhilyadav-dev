@@ -1,29 +1,19 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=900&color=4FFFB0&center=true&vCenter=true&width=800&height=50&lines=Hey%2C+I'm+Nikhil+Yadav;Full+Stack+%7c+React+%7C+Next.js+%7C+Node.js;I+turn+coffee+into+components.;Still+debugging.+Still+learning.+Still+shipping." alt="Nikhil" />
-
-<br>
 
 
-</div>
+```md
+# Nikhil Yadav
 
-# /nikhil
+`Full-Stack Developer`
 
-```txt
-[identity]
-name     = Nikhil Yadav
-role     = Full-Stack Developer
+> I build. I break. I debug. I ship.
+> Turning ideas into things people can actually use.
 
-[focus]
-frontend = React / Next.js
-backend  = Node.js
-database = MongoDB / PostgreSQL
+**Stack**
+React · Next.js · TypeScript · Node.js · MongoDB · PostgreSQL
 
-[mission]
-build → ship → learn → repeat
+**CURRENTLY**
+→ Building full-stack products  
+→ Exploring AI + modern web development  
+→ Learning better architecture
 
-[status]
-open_to = software opportunities
-```
-
-
+[LinkedIn ↗](https://www.linkedin.com/in/your-username) · [Portfolio ↗](https://your-portfolio.com) · [Email ↗](mailto:your@email.com)
