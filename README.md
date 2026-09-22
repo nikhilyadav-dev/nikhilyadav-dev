@@ -8,12 +8,16 @@
 > I build. I break. I debug. I ship.
 > Turning ideas into things people can actually use.
 
-**Stack**
-React · Next.js · TypeScript · Node.js · MongoDB · PostgreSQL
+**STACK**
+React · Next.js · TypeScript · Node.js  
+MongoDB · PostgreSQL · Tailwind · Git
 
-**CURRENTLY**
-→ Building full-stack products  
-→ Exploring AI + modern web development  
-→ Learning better architecture
+**NOW**
+Building → Web products  
+Exploring → AI + modern web development  
+Learning → System Design · Architecture · DevOps
 
-[LinkedIn ↗](https://www.linkedin.com/in/your-username) · [Portfolio ↗](https://your-portfolio.com) · [Email ↗](mailto:your@email.com)
+**SHIPPED**
+Livana · Zostro · Hireme AI · GenUI
+
+[LinkedIn ↗](/nikhilyadav-developer) · [Email ↗](nikhilyadav.prof@gmail.com)
