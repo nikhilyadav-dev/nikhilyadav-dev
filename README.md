@@ -18,6 +18,6 @@ Exploring → AI + modern web development
 Learning → System Design · Architecture · DevOps
 
 **SHIPPED**
-Livana · Zostro · Hireme AI · GenUI
+Livana · Hireme AI · GenUI
 
 [LinkedIn ↗](/nikhilyadav-developer) · [Email ↗](nikhilyadav.prof@gmail.com)
